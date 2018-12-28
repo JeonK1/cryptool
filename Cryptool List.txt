@@ -1,0 +1,16 @@
+1. encode Mos
+2. encode Ascii
+3. encode Caesar
+ 3-1. Caesar Alphabet (ABCD..abcd...)
+   3-1-1. key
+   3-1-2. non key (print all case)
+ 3-2. Caesar Printable Ascii Text(ABCDabcd123!@#[]...)
+ 3-3. Caesar All Ascii Text(ABCDabcd123!@#[] \n\a....)
+4. encode Transposition
+5. encode MD5, SHA1 ...
+6. encode Base64, URI
+7. print Ascii Table
+8. print Mos Table
+
+아스키코드표 출력
+모스부호표 출력

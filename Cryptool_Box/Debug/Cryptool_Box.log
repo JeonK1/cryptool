@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\직박구리\laboratory\cryptool_box\cryptool_box\main.cpp(269): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\직박구리\laboratory\cryptool_box\cryptool_box\main.cpp(312): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\직박구리\laboratory\cryptool_box\cryptool_box\main.cpp(332): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\직박구리\laboratory\cryptool_box\cryptool_box\main.cpp(358): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\직박구리\laboratory\cryptool_box\cryptool_box\main.cpp(390): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\직박구리\laboratory\cryptool_box\cryptool_box\main.cpp(413): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Cryptool_Box.vcxproj -> D:\직박구리\Laboratory\Cryptool_Box\Debug\Cryptool_Box.exe
